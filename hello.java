@@ -4,6 +4,10 @@ public class hello {
         System.out.println("this is for learning git again ");
         System.out.println("done with this file");
         System.out.println("modifying in dev branch");
+        System.out.println("new change in dev branch");
+
+
+        
     }
     
 }
